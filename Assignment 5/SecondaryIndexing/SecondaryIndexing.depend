@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573598589 source:c:\users\user1\dropbox\utd\dbms\ass 5\secondaryindexing\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+
